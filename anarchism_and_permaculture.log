@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  6 JAN 2013 13:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  6 JAN 2013 18:47
 entering extended mode
  %&-line parsing enabled.
 **anarchism_and_permaculture.tex
@@ -202,11 +202,6 @@ Overfull \hbox (3.94138pt too wide) in paragraph at lines 29--29
  |\OT1/cmr/m/sc/10 Kropotkin 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\OT1/cmr/m/n/10.95 con-sid-ered proto-permaculturalists.
- []
-
 [1
 
 ]
@@ -238,10 +233,10 @@ Package multicol Warning: I moved some lines to the next page.
 Here is how much of TeX's memory you used:
  1101 strings out of 495062
  15571 string characters out of 1182644
- 74753 words of memory out of 3000000
+ 73753 words of memory out of 3000000
  4312 multiletter control sequences out of 15000+50000
  10357 words of font info for 36 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  24i,8n,19p,1523b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on anarchism_and_permaculture.dvi (5 pages, 23476 bytes).
+Output written on anarchism_and_permaculture.dvi (5 pages, 23316 bytes).
