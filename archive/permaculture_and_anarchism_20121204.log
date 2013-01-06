@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  6 JAN 2013 13:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  14 DEC 2012 17:15
 entering extended mode
  %&-line parsing enabled.
-**anarchism_and_permaculture.tex
-(./anarchism_and_permaculture.tex
+**permaculture_and_anarchism_20121204.tex
+(./permaculture_and_anarchism_20121204.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, loaded.
@@ -118,8 +118,8 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
-(./anarchism_and_permaculture.aux)
-\openout1 = `anarchism_and_permaculture.aux'.
+(./permaculture_and_anarchism_20121204.aux)
+\openout1 = `permaculture_and_anarchism_20121204.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -184,11 +184,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
 
-Underfull \hbox (badness 5274) in paragraph at lines 22--23
-\OT1/cmr/m/n/10.95 pos-sesses the shape re-quired for
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []\OT1/cmr/bx/n/14.4 Anarchist Pro-top-er-ma-
  []
@@ -202,21 +197,16 @@ Overfull \hbox (3.94138pt too wide) in paragraph at lines 29--29
  |\OT1/cmr/m/sc/10 Kropotkin 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\OT1/cmr/m/n/10.95 con-sid-ered proto-permaculturalists.
- []
-
+Package marginnote Info: Margin note 1.2 is on absolute page 2
+(marginnote)              on input line 31.
+Package marginnote Info: xpos seams to be 113.81102pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 31.
 [1
 
 ]
 Package marginnote Info: Margin note 2.1 is on absolute page 2
-(marginnote)              on input line 31.
-Package marginnote Info: xpos seams to be 113.81102pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 31.
-Package marginnote Info: Margin note 2.2 is on absolute page 2
 (marginnote)              on input line 39.
-Package marginnote Info: xpos seams to be 303.75394pt,
+Package marginnote Info: xpos seams to be 113.81102pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 39.
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
@@ -225,23 +215,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
-[2]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 57.
-
-[3] [4] [5] (./anarchism_and_permaculture.aux) ) 
+[2] [3] [4] [5] (./permaculture_and_anarchism_20121204.aux) ) 
 Here is how much of TeX's memory you used:
- 1101 strings out of 495062
- 15571 string characters out of 1182644
- 74753 words of memory out of 3000000
- 4312 multiletter control sequences out of 15000+50000
- 10357 words of font info for 36 fonts, out of 3000000 for 9000
+ 1091 strings out of 495062
+ 15547 string characters out of 1182644
+ 72753 words of memory out of 3000000
+ 4305 multiletter control sequences out of 15000+50000
+ 9144 words of font info for 32 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 24i,8n,19p,1523b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,19p,1532b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on anarchism_and_permaculture.dvi (5 pages, 23476 bytes).
+Output written on permaculture_and_anarchism_20121204.dvi (5 pages, 21864 bytes
+).
