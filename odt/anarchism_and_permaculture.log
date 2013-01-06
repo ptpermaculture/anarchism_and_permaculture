@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  6 JAN 2013 18:26
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.13)  6 JAN 2013 18:49
 entering extended mode
  %&-line parsing enabled.
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
@@ -463,10 +463,10 @@ driver: dvips
 [1] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 18.
-Package marginnote Info: Margin note 3.1 is on absolute page 4
+Package marginnote Info: Margin note 3.1 is on absolute page 3
 (marginnote)              on input line 29.
 Package marginnote Info: xpos seams to be 72.26999pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 29.
+(marginnote)             \marginnoterightadjust ignored on input line 29.
  [3]
 Package marginnote Info: Margin note 4.1 is on absolute page 4
 (marginnote)              on input line 31.
@@ -494,4 +494,4 @@ Here is how much of TeX's memory you used:
  28 hyphenation exceptions out of 8191
  34i,7n,35p,1996b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on anarchism_and_permaculture.dvi (61 pages, 92772 bytes).
+Output written on anarchism_and_permaculture.dvi (61 pages, 92688 bytes).
